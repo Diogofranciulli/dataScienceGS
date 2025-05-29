@@ -1,0 +1,52 @@
+RELATÓRIO COMPLETO DE ANÁLISE DE INCÊNDIOS NA AMAZÔNIA
+================================================================================
+Gerado em: 29/05/2025 17:11:58
+Período analisado: 2021-2024
+================================================================================
+
+RESUMO EXECUTIVO:
+--------------------
+• Total de incêndios: 9,823
+• Área total queimada: 336,718.56 hectares
+• Tamanho médio por incêndio: 34.28 hectares
+• Estados mais afetados: Maranhão, Pará, Mato Grosso
+• Principal causa: Humana (69.7%)
+
+ESTATÍSTICAS ANUAIS:
+--------------------
+  2021: 2,447 incêndios | 79,579.17 ha | Média: 32.52 ha | Causa principal: Humana
+  2022: 2,446 incêndios | 85,391.99 ha | Média: 34.91 ha | Causa principal: Humana
+  2023: 2,464 incêndios | 86,122.78 ha | Média: 34.95 ha | Causa principal: Humana
+  2024: 2,466 incêndios | 85,624.62 ha | Média: 34.72 ha | Causa principal: Humana
+
+ANÁLISE POR ESTADO:
+--------------------
+  Maranhão: 1,100 incêndios | 40,257.07 ha | Média: 36.60 ha | Causa: Humana
+  Pará: 1,128 incêndios | 39,423.31 ha | Média: 34.95 ha | Causa: Humana
+  Mato Grosso: 1,094 incêndios | 39,128.45 ha | Média: 35.77 ha | Causa: Humana
+  Amapá: 1,106 incêndios | 37,692.20 ha | Média: 34.08 ha | Causa: Humana
+  Tocantins: 1,101 incêndios | 37,390.61 ha | Média: 33.96 ha | Causa: Humana
+  Roraima: 1,050 incêndios | 36,871.91 ha | Média: 35.12 ha | Causa: Humana
+  Rondônia: 1,109 incêndios | 36,329.23 ha | Média: 32.76 ha | Causa: Humana
+  Amazonas: 1,082 incêndios | 35,017.69 ha | Média: 32.36 ha | Causa: Humana
+  Acre: 1,053 incêndios | 34,608.09 ha | Média: 32.87 ha | Causa: Humana
+
+ANÁLISE SAZONAL:
+--------------------
+Estação Seca (Mai-Out): 8,209 incêndios (83.6%)
+  - Área total: 322,272.25 ha
+  - Tamanho médio: 39.26 ha
+Estação Úmida (Nov-Abr): 1,614 incêndios (16.4%)
+  - Área total: 14,446.31 ha
+  - Tamanho médio: 8.95 ha
+
+RECOMENDAÇÕES ESTRATÉGICAS:
+------------------------------
+  1. Intensificar monitoramento na estação seca (maio-outubro)
+  2. Focar recursos nos estados mais afetados
+  3. Combater causas humanas através de educação e fiscalização
+  4. Implementar sistemas de detecção precoce
+  5. Criar brigadas de combate estrategicamente posicionadas
+  6. Desenvolver aplicativos de denúncia cidadã
+  7. Integrar dados meteorológicos para previsão
+  8. Estabelecer fundos de emergência específicos
