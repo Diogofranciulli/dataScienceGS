@@ -1,5 +1,12 @@
 # Sistema de Monitoramento de Queimadas na Amazônia
-# Análise de Dados Históricos de Incêndios Florestais - Versão Corrigida
+# Análise de Dados Históricos de Incêndios Florestais
+
+"""
+
+Diogo Leles Franciulli - RM:558487
+Felipe Sousa De Oliveira - RM:559085
+Ryan Brito Pereira Ramos - RM:554497
+"""
 
 import pandas as pd
 import numpy as np
